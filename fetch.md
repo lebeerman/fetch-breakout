@@ -8,7 +8,11 @@
 
 ## Notes
 
-
+* Fetch:
+  - GET request is default
+  - Request for information from an API (application programming interface)
+  - Server: querying a database for information
+  
 
 
 
