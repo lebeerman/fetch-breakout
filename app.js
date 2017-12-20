@@ -4,7 +4,7 @@
 
 var baseUrl = 'https://swapi.co/api/';
 
-fetch(baseUrl + 'starships/')
+fetch(baseUrl)
 .then(resp => resp.json())
 .then(data => {
   console.dir(data);
